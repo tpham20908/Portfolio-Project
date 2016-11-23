@@ -1,5 +1,5 @@
 body {
-  font-family: 'Kanit', serif;
+  font-family: "Kanit", serif;
   font-weight: 400;
   color: #847878;
   font-size: 16px;
@@ -21,7 +21,7 @@ figcaption {
 }
 
 .text-muted {
-  color: #BBB;
+  color: #bbb;
 }
 
 .text-thin {
